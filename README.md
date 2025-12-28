@@ -1,10 +1,6 @@
 # MDPF-Net: Modality Decoupling and Polarized Fusion Multi-modal Detection Network
 
 <div align="center">
-  <p>
-    <a href="https://github.com/zzyadad/MDPF-Net" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/zzyadad/MDPF-Net/master/ultralytics/over.jpg" alt="MDPF-Net Framework"></a>
-  </p>
 </div>
 
 ## 🎯 核心创新
