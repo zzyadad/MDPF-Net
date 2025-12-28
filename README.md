@@ -13,18 +13,6 @@
 - 🔥 **Polarized Linear Cross-Attention (PLCA)**: 极化线性交叉注意力机制，利用正负极化通路处理模态间的一致性与互补性。
 - 🚀 **SOTA Performance**: 在 **M3FD (91.6% mAP)** 和 **LLVIP (96.3% mAP)** 数据集上均超越了现有的最先进方法。
 
-## 📖 项目简介
-
-**Multi-modal object detection aims to leverage the complementary features of RGB and Infrared (IR) images to enhance detection performance.**
-
-However, existing feature extraction networks often overlook the inherent physical heterogeneity between modalities and struggle to effectively distinguish between feature commonalities and differences during the fusion phase. To address these issues, we propose a **Modality Decoupling and Polarized Fusion Multi-modal Detection Network (MDPF-Net)**.
-
-Specifically:
-1. We construct a **Modality-Specific Decoupling Backbone (MSDB)**.
-2. For the RGB modality, we utilize a **Spatial-Spectral Synergistic Modulation Unit (S³M)**.
-3. For the IR modality, we employ a specialized **Spectrum-Decoupled Structure Reshaping (SDSR)** Module.
-4. We propose **Polarized Linear Cross-Attention (PLCA)** for the feature fusion stage.
-
 ## 📅 代码发布计划
 
 > **重要说明**: 本项目的完整代码（基于 Ultralytics 框架）将在论文被期刊/会议正式录用后公开发布。
